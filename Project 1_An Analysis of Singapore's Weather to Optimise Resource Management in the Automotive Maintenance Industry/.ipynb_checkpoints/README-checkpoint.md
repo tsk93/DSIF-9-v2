@@ -2,6 +2,8 @@
 
 ### Overview
 
+test version insert to check for upload!
+
 Our first module in DSI covers:
 - Basic statistics and probability
 - Many Python programming concepts
@@ -19,7 +21,7 @@ For our first project, we're going to analyze climate trends in Singapore. Clima
 
 Generally speaking, you will be asked to come up with a data science problem. This problem is ultimately up to you, but below are some guidelines/things to consider when crafting a problem statement:
 > 1. Consider your audience. Who is your project going to help? Who will your presentation be geared towards? Establishing your audience first can help you narrow down your scope.
-> 2. Consider the data you will use. Based on the contents of this data, think about some questions you could reasonably answer. These questions should aim to solve some kind of problem.
+> 2. Consider the data you will use. Based on the contents of this data, think about some questions you could reasonably answer. These questions should aim to solve some kind of problem. 
 > 3. Based on these questions, what would bring some kind value to your audience? This can be business insights, increase sales, make decisions, etc.
 > 4. Put everything from the above steps together into a few sentences that describe the specific problem you are trying to solve and who it will benefit.
 > [Here is a blog post](https://towardsdatascience.com/defining-a-data-science-problem-4cbf15a2a461) about crafting a data science problem statement.
