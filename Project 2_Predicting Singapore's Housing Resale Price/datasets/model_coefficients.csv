@@ -1,0 +1,104 @@
+Feature,Coefficient Value,category
+hdb_age,-3376.4682399844282,hdb_age
+mid,3448.3427525697866,storey
+max_floor_lvl,2845.4540455550678,max_floor_lvl
+floor_area_sqft,303.95000025106214,floor_area_sqft
+mrt_nearest_distance,-55.5550316906415,mrt/bus
+mall_nearest_distance,-21.897479557126644,mall
+planning_area_Bedok,-14860.554375452513,planning_area
+planning_area_Bishan,90182.67089696504,planning_area
+planning_area_Bukit Batok,-70847.79433505166,planning_area
+planning_area_Bukit Merah,83893.83224618546,planning_area
+planning_area_Bukit Panjang,-116550.12619402687,planning_area
+planning_area_Bukit Timah,162722.58201694817,planning_area
+planning_area_Changi,225453.7183949172,planning_area
+planning_area_Choa Chu Kang,-157363.74494525045,planning_area
+planning_area_Clementi,26997.932202703596,planning_area
+planning_area_Downtown Core,155506.3762338462,planning_area
+planning_area_Geylang,20844.207831298052,planning_area
+planning_area_Hougang,-59318.878255186195,planning_area
+planning_area_Jurong East,-44796.33322674524,planning_area
+planning_area_Jurong West,-107900.72750090061,planning_area
+planning_area_Kallang,33928.60004696624,planning_area
+planning_area_Marine Parade,193508.61557254643,planning_area
+planning_area_Novena,18207.77748921483,planning_area
+planning_area_Outram,80034.73882565762,planning_area
+planning_area_Pasir Ris,-69787.0541406912,planning_area
+planning_area_Punggol,-95529.81161952676,planning_area
+planning_area_Queenstown,76153.84785469936,planning_area
+planning_area_Rochor,17423.63479920663,planning_area
+planning_area_Sembawang,-172290.41730432163,planning_area
+planning_area_Sengkang,-105641.24089819146,planning_area
+planning_area_Serangoon,20608.453670516636,planning_area
+planning_area_Tampines,-39029.11103005507,planning_area
+planning_area_Tanglin,195933.4681374166,planning_area
+planning_area_Toa Payoh,28914.91775634033,planning_area
+planning_area_Western Water Catchment,-150487.0657282084,planning_area
+planning_area_Woodlands,-143978.10459391802,planning_area
+planning_area_Yishun,-86937.15742399803,planning_area
+full_flat_type_2 ROOM 2-room,5450.051852200701,full_flat_type
+full_flat_type_2 ROOM DBSS,5607.823993361516,full_flat_type
+full_flat_type_2 ROOM Improved,-7296.163209900873,full_flat_type
+full_flat_type_2 ROOM Model A,-6798.151572249102,full_flat_type
+full_flat_type_2 ROOM Premium Apartment,-2285.261164305607,full_flat_type
+full_flat_type_2 ROOM Standard,-15696.419213914043,full_flat_type
+full_flat_type_3 ROOM DBSS,67252.5393527238,full_flat_type
+full_flat_type_3 ROOM Improved,10687.993500736884,full_flat_type
+full_flat_type_3 ROOM Model A,31308.473621742472,full_flat_type
+full_flat_type_3 ROOM New Generation,31500.80778839594,full_flat_type
+full_flat_type_3 ROOM Premium Apartment,16357.762459329067,full_flat_type
+full_flat_type_3 ROOM Simplified,42961.49984467348,full_flat_type
+full_flat_type_3 ROOM Standard,15481.803201863979,full_flat_type
+full_flat_type_3 ROOM Terrace,445624.7203510516,full_flat_type
+full_flat_type_4 ROOM Adjoined flat,129222.91950564938,full_flat_type
+full_flat_type_4 ROOM DBSS,137874.99069333993,full_flat_type
+full_flat_type_4 ROOM Improved,33002.87520166656,full_flat_type
+full_flat_type_4 ROOM Model A,36228.14298803313,full_flat_type
+full_flat_type_4 ROOM Model A2,39218.79531975246,full_flat_type
+full_flat_type_4 ROOM New Generation,52527.78564229794,full_flat_type
+full_flat_type_4 ROOM Premium Apartment,55326.222121683335,full_flat_type
+full_flat_type_4 ROOM Premium Apartment Loft,156823.11030561122,full_flat_type
+full_flat_type_4 ROOM Simplified,47354.6763951806,full_flat_type
+full_flat_type_4 ROOM Standard,58286.18785330685,full_flat_type
+full_flat_type_4 ROOM Terrace,467319.3981787872,full_flat_type
+full_flat_type_4 ROOM Type S1,143717.71752461392,full_flat_type
+full_flat_type_5 ROOM Adjoined flat,120656.22586252706,full_flat_type
+full_flat_type_5 ROOM DBSS,198511.83321033188,full_flat_type
+full_flat_type_5 ROOM Improved,53736.51630279515,full_flat_type
+full_flat_type_5 ROOM Improved-Maisonette,234676.53655119461,full_flat_type
+full_flat_type_5 ROOM Model A,47777.70620202063,full_flat_type
+full_flat_type_5 ROOM Model A-Maisonette,168236.66865449178,full_flat_type
+full_flat_type_5 ROOM Premium Apartment,52423.19579446562,full_flat_type
+full_flat_type_5 ROOM Premium Apartment Loft,215599.38425766357,full_flat_type
+full_flat_type_5 ROOM Standard,94023.45749342658,full_flat_type
+full_flat_type_5 ROOM Type S2,218077.28527402223,full_flat_type
+full_flat_type_EXECUTIVE Adjoined flat,167955.4652117081,full_flat_type
+full_flat_type_EXECUTIVE Apartment,99688.58379887242,full_flat_type
+full_flat_type_EXECUTIVE Maisonette,134003.11936928853,full_flat_type
+full_flat_type_EXECUTIVE Premium Apartment,75341.44001319434,full_flat_type
+full_flat_type_EXECUTIVE Premium Maisonette,156040.39481556302,full_flat_type
+full_flat_type_MULTI-GENERATION Multi Generation,183853.1588195206,full_flat_type
+storey_range_01 TO 05,27460.457322161972,storey
+storey_range_04 TO 06,2775.7375710759097,storey
+storey_range_06 TO 10,23302.69395360138,storey
+storey_range_07 TO 09,3275.2278287293557,storey
+storey_range_10 TO 12,-805.232657391698,storey
+storey_range_11 TO 15,15817.99042883332,storey
+storey_range_13 TO 15,-3271.427533060669,storey
+storey_range_16 TO 18,681.4796777118818,storey
+storey_range_16 TO 20,21562.627014076752,storey
+storey_range_19 TO 21,14292.412780324143,storey
+storey_range_21 TO 25,11523.8053757123,storey
+storey_range_22 TO 24,9459.084669938322,storey
+storey_range_25 TO 27,1087.9035119048165,storey
+storey_range_26 TO 30,-34361.47936213968,storey
+storey_range_28 TO 30,4690.54394982473,storey
+storey_range_31 TO 33,-11458.015959043318,storey
+storey_range_31 TO 35,-4567.029543493827,storey
+storey_range_34 TO 36,-9969.909954174793,storey
+storey_range_36 TO 40,-42403.751828806875,storey
+storey_range_37 TO 39,-13029.813880726615,storey
+storey_range_40 TO 42,1550.5988104465098,storey
+storey_range_43 TO 45,24987.497403957717,storey
+storey_range_46 TO 48,15001.121104915293,storey
+storey_range_49 TO 51,8190.631459335861,storey
