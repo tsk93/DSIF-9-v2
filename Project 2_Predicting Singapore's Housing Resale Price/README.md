@@ -12,9 +12,7 @@ In this project, a linear regression model based on Singapore Housing Dataset wa
 
 ## Dataset
 
-The HDB resale price dataset consists of more than 70 different housing features relating to houses. The dataset and data dictionary reside here and an offline version is available here.
-
-The full dataset is in the datasets folder:
+The HDB resale price dataset consists of more than 70 different housing features relating to houses. The original dataset is in the datasets folder as shown below:
 
 - train.csv: training dataset with all features and HDB resale prices
 - test.csv: test dataset with all features only, for submission to competition on Kaggle
