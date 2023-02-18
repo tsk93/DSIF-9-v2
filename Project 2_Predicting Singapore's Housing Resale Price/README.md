@@ -16,19 +16,19 @@ The HDB resale price dataset consists of more than 70 different housing features
 
 The full dataset is in the datasets folder:
 
-    train.csv: training dataset with all features and HDB resale prices
-    test.csv: test dataset with all features only, for submission to competition on Kaggle
-    sample_sub_reg.csv: sample of the submission template
+- train.csv: training dataset with all features and HDB resale prices
+- test.csv: test dataset with all features only, for submission to competition on Kaggle
+- sample_sub_reg.csv: sample of the submission template
     
 ## Technical Report
 
 The technical report is split into 5 parts in the code folder:
 
-    Part 1 - Data Cleaning.ipynb: A Jupyter notebook that performs data cleaning and the result is exported to the cleaned_housing_data.csv dataset in the datasets folder.
-    Part 2 - EDA and Feature Engineering.ipynb: A Jupyter notebook that focuses on Exploratory Data Analysis (EDA) and feature engineering and the result is exported to the cleaned_housing_data.csv dataset in the datasets folder.
-    Part 3 - Model Tuning & Evaluation.ipynb: A Jupyter notebook that focuses on model fitting and assessing the performance of each model using RMSE and R2 score. The model coefficients are exported to model_coefficients.csv dataset in the datasets folder for further analysis.
-    Part 4 - Production Model Insights.ipynb: A Jupyter notebook that uses the trained model to provide business insights.
-    Part 5 - Kaggle Submission.ipynb: A Jupyter notebook that utilises the trained model to generate resale price predictions on the test dataset, the result is exported to kaggle_submission.csv in the datasets folder and uploaded to Kaggle.
+- Part 1 - Data Cleaning.ipynb: A Jupyter notebook that performs data cleaning and the result is exported to the cleaned_housing_data.csv dataset in the datasets folder.
+- Part 2 - EDA and Feature Engineering.ipynb: A Jupyter notebook that focuses on Exploratory Data Analysis (EDA) and feature engineering and the result is exported to the cleaned_housing_data.csv dataset in the datasets folder.
+- Part 3 - Model Tuning & Evaluation.ipynb: A Jupyter notebook that focuses on model fitting and assessing the performance of each model using RMSE and R2 score. The model coefficients are exported to model_coefficients.csv dataset in the datasets folder for further analysis.
+- Part 4 - Production Model Insights.ipynb: A Jupyter notebook that uses the trained model to provide business insights.
+- Part 5 - Kaggle Submission.ipynb: A Jupyter notebook that utilises the trained model to generate resale price predictions on the test dataset, the result is exported to kaggle_submission.csv in the datasets folder and uploaded to Kaggle.
 
 
 ## Performance of Model for Kaggle Submission
